@@ -7,3 +7,4 @@ Sixth commit
 First foo
 Second foo
 Third foo
+Fourth foo
