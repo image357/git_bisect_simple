@@ -1,1 +1,1 @@
-# git_bisect_simple
+# git_bisect_tutorial
