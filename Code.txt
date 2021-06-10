@@ -10,3 +10,4 @@ Third foo
 First bar
 Second bar
 Third bar
+Fourth bar
