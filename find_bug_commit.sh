@@ -1,7 +1,7 @@
 #!/bin/bash
 
 git log --pretty=format:'%h' -n 1
-cat Code.txt | grep "Bug commit"
+cat Code.txt | grep "$1"
 
 if [ $? == "0" ]
 then
