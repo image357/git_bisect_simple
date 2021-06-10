@@ -6,4 +6,6 @@ Fifth commit
 Sixth commit
 First main
 Second main
+First foo
+Second foo
 Third main
